@@ -1,0 +1,79 @@
+{'cmdline': ['/home/radu/snipersim_powerstack/snipersim/run-sniper',
+             '-v',
+             '--power',
+             '-n',
+             '1',
+             '-c',
+             'gainestown.cfg',
+             '-c',
+             '"perf_model/l1_icache/cache_size=32"',
+             '-c',
+             '"perf_model/l1_dcache/cache_size=128"',
+             '-c',
+             '"perf_model/l2_cache/cache_size=2048"',
+             '-c',
+             '"perf_model/l3_cache/cache_size=4086"',
+             '-d',
+             '/home/radu/Desktop/simulations/configuration_8',
+             '--',
+             '/home/radu/snipersim_powerstack/snipersim/test/fft/fft',
+             '-p',
+             '1'],
+ 'git_revision': '2fcab91275d3e2829a1c2f13ba2983fe12ec9d29',
+ 'host': 'radu',
+ 'pin_version': 'unknown',
+ 'rusage': (1.324528,
+            1.613939,
+            139728,
+            0,
+            0,
+            0,
+            22622,
+            0,
+            0,
+            0,
+            144,
+            0,
+            0,
+            0,
+            11329,
+            166),
+ 'snipercmd': ['bash',
+               '-c',
+               '/home/radu/snipersim_powerstack/snipersim/lib/sniper -c '
+               '/home/radu/snipersim_powerstack/snipersim/config/base.cfg '
+               '--general/total_cores=1 '
+               '--general/output_dir=/home/radu/Desktop/simulations/configuration_8 '
+               '--config=/home/radu/snipersim_powerstack/snipersim/config/nehalem.cfg '
+               '--config=/home/radu/snipersim_powerstack/snipersim/config/gainestown.cfg '
+               '\'--"perf_model/l1_icache/cache_size=32"\' '
+               '\'--"perf_model/l1_dcache/cache_size=128"\' '
+               '\'--"perf_model/l2_cache/cache_size=2048"\' '
+               '\'--"perf_model/l3_cache/cache_size=4086"\' -g '
+               '--traceinput/stop_with_first_app=true -g '
+               '--traceinput/restart_apps=false -g '
+               '--traceinput/stop_with_first_app=false -g '
+               '--traceinput/enabled=true -g '
+               '--traceinput/emulate_syscalls=true -g --traceinput/num_apps=1 '
+               '-g --traceinput/trace_prefix=/tmp/tmpnu4s1odf/run_benchmarks'],
+ 't_elapsed': 7.168230295181274,
+ 't_start': 1769087887.263297,
+ 'tracecmds': [['/home/radu/snipersim_powerstack/snipersim/record-trace',
+                '-o',
+                '/tmp/tmpnu4s1odf/run_benchmarks',
+                '-v',
+                '--sde-arch=future',
+                '-e',
+                '1',
+                '-s',
+                '0',
+                '-r',
+                '1',
+                '--follow',
+                '--routine-tracing',
+                '--',
+                '/home/radu/snipersim_powerstack/snipersim/test/fft/fft',
+                '-p',
+                '1']],
+ 'user': 'radu',
+ 'vmem': 378097664}

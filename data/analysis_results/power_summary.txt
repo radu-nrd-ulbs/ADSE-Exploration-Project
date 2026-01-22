@@ -1,0 +1,12 @@
+POWER METRICS SUMMARY
+================================================================================
+   Architecture  Total Power (W)  Total Energy (J)  Core Power (W)  Cache Power (W)  DRAM Power (W)
+configuration_1            20.53              0.01            8.77             6.98            4.76
+configuration_2            20.56              0.01            8.79             6.98            4.76
+configuration_3            20.53              0.01            8.77             6.97            4.76
+configuration_4            20.53              0.01            8.77             6.98            4.76
+configuration_5            20.53              0.01            8.77             6.98            4.76
+configuration_6            20.53              0.01            8.77             6.98            4.76
+configuration_7            20.53              0.01            8.77             6.98            4.76
+configuration_8            20.56              0.01            8.79             6.98            4.76
+================================================================================

@@ -1,0 +1,22 @@
+{
+    "run_sniper_path" : "/home/radu/snipersim_powerstack/snipersim/run-sniper",
+    "output_dir" : "/home/radu/Desktop/simulations",
+    "cfgfile" : "gainestown.cfg",
+    "benchmark_path" : "/home/radu/snipersim_powerstack/snipersim/test/fft/fft",
+    "parameters": {
+        "caches": {
+            "l1_icache" :{
+                "cache_size" : [32]
+            },
+            "l1_dcache": {
+                "cache_size": [64,128]
+            },
+            "l2_cache": {
+                "cache_size": [256,2048]
+            },
+            "l3_cache": {
+                "cache_size": [512,4096]
+            }
+        }
+    }
+}

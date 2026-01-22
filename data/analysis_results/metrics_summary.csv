@@ -1,0 +1,9 @@
+Architecture,File Path,Cycles,IPC,L1-D Miss Rate (%),L2 Miss Rate (%),L3 Miss Rate (%)
+configuration_1,configuration_1/sim.out,1382136,1.31,0.44,61.71,91.73
+configuration_2,configuration_2/sim.out,1378146,1.31,0.44,61.62,91.68
+configuration_3,configuration_3/sim.out,1383466,1.3,0.45,61.46,91.74
+configuration_4,configuration_4/sim.out,1382934,1.31,0.44,61.66,91.73
+configuration_5,configuration_5/sim.out,1382934,1.31,0.45,61.47,91.71
+configuration_6,configuration_6/sim.out,1382668,1.31,0.44,61.66,91.7
+configuration_7,configuration_7/sim.out,1382402,1.31,0.44,61.67,91.7
+configuration_8,configuration_8/sim.out,1378146,1.31,0.44,61.6,91.69

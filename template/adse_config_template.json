@@ -1,0 +1,52 @@
+{
+    "run_sniper_path": "",
+    "output_dir": "",
+    "cfgfile": "",
+    "benchmark_path": "",
+    "parameters": {
+        "caches": {
+            "l1_icache": {
+                "cache_size": [],
+                "cache_block_size": [],
+                "associativity": [],
+                "replacement": []
+            },
+            "l1_dcache": {
+                "cache_size": [],
+                "cache_block_size": [],
+                "associativity": [],
+                "replacement": []
+            },
+            "l2_cache": {
+                "cache_size": [],
+                "cache_block_size": [],
+                "associativity": [],
+                "replacement": []
+            },
+            "l3_cache": {
+                "cache_size": [],
+                "cache_block_size": [],
+                "associativity": [],
+                "replacement": []
+            },
+            "l4_cache": {
+                "cache_size": [],
+                "cache_block_size": [],
+                "associativity": [],
+                "replacement": []
+            }
+        },
+        "TLBs": {
+            "itlb": {
+                "entries": [],
+                "associativity": [],
+                "page_size": []
+            },
+            "dtlb": {
+                "entries": [],
+                "associativity": [],
+                "page_size": []
+            }
+        }
+    }
+}

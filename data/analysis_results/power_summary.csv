@@ -1,0 +1,9 @@
+Architecture,File Path,Total Power (W),Total Energy (J),Core Power (W),Cache Power (W),DRAM Power (W)
+configuration_1,configuration_1/powerstack.txt,20.53,0.01,8.77,6.98,4.76
+configuration_2,configuration_2/powerstack.txt,20.56,0.01,8.79,6.98,4.76
+configuration_3,configuration_3/powerstack.txt,20.53,0.01,8.77,6.97,4.76
+configuration_4,configuration_4/powerstack.txt,20.53,0.01,8.77,6.98,4.76
+configuration_5,configuration_5/powerstack.txt,20.53,0.01,8.77,6.98,4.76
+configuration_6,configuration_6/powerstack.txt,20.53,0.01,8.77,6.98,4.76
+configuration_7,configuration_7/powerstack.txt,20.53,0.01,8.77,6.98,4.76
+configuration_8,configuration_8/powerstack.txt,20.56,0.01,8.79,6.98,4.76
